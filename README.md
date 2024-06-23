@@ -3,6 +3,9 @@
 
 This is a simple Student Management System implemented in PHP with MySQL. The system allows you to create, read, update, and delete student records.
 
+## Hosted URL :
+https://studenttest7875.000.pe/
+
 ## Features
 
 - Create new student records
