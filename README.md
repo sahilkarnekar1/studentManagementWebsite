@@ -21,11 +21,11 @@ This is a simple Student Management System implemented in PHP with MySQL. The sy
 
 ### Step 1: clone the directory using provided link 
 
-git clone https://github.com/yourusername/student-management-system.git
+git clone https://github.com/sahilkarnekar1/studentManagementWebsite.git
 
 ### Step 2: start xampp apache server and mysql database
 
-### Step 3: find the database file have provided in the repository 
+### Step 3: find the database file have provided in the repository databaseFile/school_db.sql
 
 ### Step 4: open localhotphpmyadmin for view the database and create new database set the name same as the database file name and create database 
 
